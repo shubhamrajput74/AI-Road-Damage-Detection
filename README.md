@@ -52,3 +52,19 @@ Ensure that `models/best.pt` exists and that the input video is available at the
 
 Severity estimates based on bounding-box area are approximate and do not directly measure the physical depth or dimensions of road damage.
 
+## Project Screenshots
+
+### Road Damage Detection
+![Poisson Model](screenshots/poisson%20mdoe.jpg)
+
+### Pothole Density Heatmap
+![Pothole Heatmap](screenshots/heatmap.jpg)
+
+### Statistical Analysis
+![Pothole Statistics](screenshots/stats%20mode.jpg)
+
+### Damage Severity Classification
+![Severity Analysis](screenshots/severity%20mode.jpg)
+
+### Pothole Counting and Tracking
+![Pothole Counting](screenshots/count%20mode.jpg)
