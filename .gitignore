@@ -1,0 +1,15 @@
+﻿yolovenv/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+.vscode/
+.idea/
+runs/
+dataset/
+Guide_to_test_the_project_and_team_5_b2_slot_info.txt
+IEEE_Conference_Group_5_b2-slot.pdf
+IEEE_Conference_Group_5_b2-slot.zip
+yolov8n.pt
+yolo26n.pt
