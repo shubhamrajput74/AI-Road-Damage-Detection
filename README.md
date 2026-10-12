@@ -68,3 +68,9 @@ Severity estimates based on bounding-box area are approximate and do not directl
 
 ### Pothole Counting and Tracking
 ![Pothole Counting](screenshots/count%20mode.jpg)
+
+## Demonstration
+
+Watch the complete road damage detection demonstration:
+
+[View Demonstration Video](demonstration.mp4)
