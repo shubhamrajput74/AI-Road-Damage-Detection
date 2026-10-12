@@ -52,6 +52,3 @@ Ensure that `models/best.pt` exists and that the input video is available at the
 
 Severity estimates based on bounding-box area are approximate and do not directly measure the physical depth or dimensions of road damage.
 
-## Development
-
-AI-assisted tools were used during development. The implementation was tested, modified, and debugged during development.
